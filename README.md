@@ -2,7 +2,7 @@
 
 
 
-# Step 1.  Docker and Jenkins installation commands
+# Step 1.  Jenkins installation commands
 
 1. sudo apt update
 

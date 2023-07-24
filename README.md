@@ -29,4 +29,12 @@
 
 # Step 2. GitHub integration commands
 
-1. 
+1. ssh-keygen
+
+2. cd .ssh
+
+3. ls
+
+4. sudo cat id_rsa.pub
+
+# End Step 2

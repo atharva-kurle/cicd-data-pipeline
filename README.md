@@ -27,8 +27,6 @@
 # End Step 1
 
 
-# Step 2. 
+# Step 2. GitHub integration commands
 
-1. sudo cat /var/lib/jenkins/secrets/initialAdminPassword
-
-2. 
+1. 

@@ -1,7 +1,9 @@
 FROM python
 
-RUN pip install pandas
+WORKDIR app
 
-EXPOSE 8000
+COPY . .
+
+RUN pip install pandas
 
 CMD ["python3","pipeline.py"]
